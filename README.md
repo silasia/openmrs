@@ -14,6 +14,7 @@ http://localhost:8080/openmrs/
 When installation wizard is finished, you should be redirected to the login screen.
 
 Username: admin
+
 Password: Admin123
 
 Reference:
