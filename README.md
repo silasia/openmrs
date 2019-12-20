@@ -3,7 +3,7 @@ docker-compose.yml for running openmrs server from https://hub.docker.com/r/open
 
 On Docker Desktop/toolbox, run:
 ```
-docker-compose up -d --build
+docker-compose up -d
 ```
 
 On web browser, access:
